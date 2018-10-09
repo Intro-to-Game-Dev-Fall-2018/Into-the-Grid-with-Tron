@@ -9,3 +9,6 @@ https://electron530.itch.io/week-3-freeway-clone
 
 Final Week
 https://electron530.itch.io/freeway-clone
+
+Halloween Game
+https://electron530.itch.io/halloween-freeway
